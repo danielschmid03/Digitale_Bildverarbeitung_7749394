@@ -1,0 +1,4 @@
+Tensorflow==2.14.0
+numpy==1.26.1
+seaborn==0.13.0
+pandas==2.1.2
